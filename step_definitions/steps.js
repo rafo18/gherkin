@@ -5,4 +5,6 @@ Given('I have a defined step', () => {
   // TODO: replace with your own step
 });
 
-When('')
+When('I click something', () => {
+
+});
